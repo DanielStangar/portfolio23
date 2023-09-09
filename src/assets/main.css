@@ -1,0 +1,26 @@
+@import './base.css';
+
+#app {
+
+  margin: 0 auto;
+  padding: 0rem;
+
+  font-weight: normal;
+}
+
+html {
+
+  background-image: url('../assets/bluesmoke3.jpg');
+ 
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-color:black;
+
+}
+
+
+
+
+
+
+
